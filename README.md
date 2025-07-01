@@ -26,7 +26,7 @@
 
 ## About Me :wave:
 
-I’m a passionate and curious software developer currently pursuing my B.Tech at Jaypee Institute of Information Technology (2023–2027). With a strong foundation in C++ and a growing command over Data Structures and Algorithms, I actively engage in problem-solving and love exploring the depths of computational thinking.
+I’m a 3rd-year B.Tech student at Jaypee Institute of Information Technology (2023–2027), and a passionate, curious software developer. With a strong foundation in C++ and a growing command over Data Structures and Algorithms, I actively engage in problem-solving and love exploring the depths of computational thinking.
 
 I'm also diving into the world of Machine Learning, particularly with TensorFlow, where I experiment, learn, and build intelligent solutions that make a difference. <br>
 
@@ -47,12 +47,3 @@ I'm also diving into the world of Machine Learning, particularly with TensorFlow
 </p>
 
 ⭐️ From [Divij Verma](https://github.com/Divijv8)
-
-
-<a href="https://github.com/Divijv8/BlockBin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Divijv8&repo=BlockBin" />
-</a>
-
-<a href="https://github.com/Divijv8/DocScanner">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Divijv8&repo=DocScanner" />
-</a>
