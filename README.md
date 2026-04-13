@@ -41,9 +41,5 @@ I'm also diving into the world of Machine Learning, particularly with TensorFlow
 | **AI/ML Technologies** | ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 | **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=Github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🏆 Github Stats:
-<p align="center">
-  <img alt="Divij's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divijv8&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="400"/>
-</p>
 
 ⭐️ From [Divij Verma](https://github.com/Divijv8)
