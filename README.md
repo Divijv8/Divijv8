@@ -26,9 +26,9 @@
 
 ## About Me :wave:
 
-I’m a 3rd-year B.Tech student at Jaypee Institute of Information Technology (2023–2027), and a passionate, curious software developer. With a strong foundation in C++ and a growing command over Data Structures and Algorithms, I actively engage in problem-solving and love exploring the depths of computational thinking.
+I'm a final-year B.Tech student at Jaypee Institute of Information Technology (2023–2027), and a passionate, curious software developer. With a strong foundation in C++ and a deep command over Data Structures and Algorithms, I actively engage in competitive programming and love exploring the depths of computational thinking.
 
-I'm also diving into the world of Machine Learning, particularly with TensorFlow, where I experiment, learn, and build intelligent solutions that make a difference. <br>
+I build production-grade AI systems and full-stack applications — from LSTM-based fake news detectors to decentralized file storage on IPFS. Currently focused on ML engineering, LLM integration, and real-world applied AI. <br>
 
 ## 💻 Tech Stack
 
